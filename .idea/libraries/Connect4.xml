@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Connect4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Connect4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/openjfx-18.0.1_windows-x64_bin-sdk.zip!/javafx-sdk-18.0.1/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
